@@ -3,7 +3,7 @@ numDisplay = 6;
 // Set this to false if you want to execute the r-code, 
 // but you can only search for limited set of movies 
 // & computation takes longer
-useTMDB = 0; 
+useTMDB = 1; 
 
 window.onload = function() {
   addUIElements();
