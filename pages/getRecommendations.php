@@ -1,6 +1,6 @@
 <?php
 
-// get the userInfo parameter from URL
+// get the userInfo parameter from URL.
 $movieTitle   = $_REQUEST["movieTitle"];
 
 $recommendations = "";
